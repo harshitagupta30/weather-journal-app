@@ -24,3 +24,4 @@ To get the project up and running follow the steps below:
 * Set up a function that updated UI dynamically.
 
 ### Final Output
+![Output](https://github.com/harshitagupta30/weather-journal-app/blob/master/img/final_ouput.png)
